@@ -1,30 +1,30 @@
 # MartianUnityGame
-Currently code for a simple sprite game that defends a castle from spacemen, still in development stages
+Currently code for a simple attack game that defends allows the player to proctect a castle from spacemen, still in development stages
 
 Files: 
 <br> BombSpawner.cs
-<t> BombSpawner.cs.meta
+<br> BombSpawner.cs.meta
 
-CastleScore.cs
-CastleScore.cs.meta
+<br> CastleScore.cs
+<br> CastleScore.cs.meta
 
-GameManager.cs
-GameManager.cs.meta
+<br> GameManager.cs
+<br> GameManager.cs.meta
 
-MartainSpawnScr.cs
-MartainSpawnScr.cs.meta
+<br> MartainSpawnScr.cs
+<br> MartainSpawnScr.cs.meta
 
-MartianScript.cs
-MartianScript.cs.meta
+<br> MartianScript.cs
+<br> MartianScript.cs.meta
 
-SceneReloader.cs
-SceneReloader.cs.meta
+<br> SceneReloader.cs
+<br> SceneReloader.cs.meta
 
-Score.cs
-Score.cs.meta
+<br> Score.cs
+<br> Score.cs.meta
 
-UIHider.cs
-UIHider.cs.meta
+<br> UIHider.cs
+<br> UIHider.cs.meta
 
-bombDeath.cs
-bombDeath.cs.meta
+<br> bombDeath.cs
+<br> bombDeath.cs.meta
